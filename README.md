@@ -24,7 +24,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="![dashboard](https://github.com/GohilKapil52/AtliQ-Horel-Revenue-Insight/assets/148672524/ec8db74c-0078-4361-a1af-79879e685b43)">
 </p>
 
 
