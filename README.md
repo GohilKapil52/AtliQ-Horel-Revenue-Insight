@@ -41,11 +41,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/GohilKapil52/AtliQ-Horel-Revenue-Insight/assets/148672524/2bdc0fd2-4ecb-454c-9ea2-8fda1e176712' width="600">
 </p>
 
-## Monthly Analysis View
-
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
-</p>
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
