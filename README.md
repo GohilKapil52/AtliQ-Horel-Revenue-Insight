@@ -1,1 +1,1 @@
-# AtliQ-Horel-Revenue-Insight
+# AtliQ-Hotel-Revenue-Insight
